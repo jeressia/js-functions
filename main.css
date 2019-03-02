@@ -2,6 +2,8 @@ body {
     background-color: rgb(255, 167, 214);
 }
 
-h1{
+.title{
     text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
 }
