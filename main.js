@@ -25,7 +25,7 @@ const nuggetizer = (animal) => {
     return `Processed ${animal}`;
 };
 
-console.log(nuggetizer('monkey'));
+console.log(nuggetizer('monkey'))
 
 const dogBreed=(dogBreed) => {
     return `My favorite dog breed is ${dogBreed}`
