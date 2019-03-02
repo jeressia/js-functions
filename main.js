@@ -26,3 +26,8 @@ const nuggetizer = (animal) => {
 };
 
 console.log(nuggetizer('monkey'));
+
+const dogSentence = (dogBreed) => {
+    return `My favorite dog breed is ${dogBreed}.`;
+}
+ console.log (dogSentence('poodle'));
